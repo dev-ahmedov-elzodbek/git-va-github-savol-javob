@@ -1,0 +1,19 @@
+{
+  "name": "GoalFlow",
+  "short_name": "GoalFlow",
+  "description": "Maqsadlaringizga erishish yo'li",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0a0d16",
+  "theme_color": "#6c63ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
